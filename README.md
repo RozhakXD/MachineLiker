@@ -40,6 +40,7 @@ Each fake Facebook account can send as many as 10 likes in one day. You can use 
 
 ### When will likes arrive on posts?
 Likes will increase every minute or even hour according to the number of script users. To overcome unwanted likes, read below!
+
 **Solution:**
 - The post is not public or the post link is incorrect.
 - Posts do not have a like button.
