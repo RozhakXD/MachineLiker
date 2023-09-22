@@ -35,6 +35,9 @@ $ cd "$HOME/MachineLiker" && git pul
 $ python Run.py
 ```
 
+### The number of likes received is less than 30?
+Because the Machine-Liker lacks users, the number of likes we receive sometimes does not reach 30 likes, it all depends on the Facebook like service provider.
+
 ### What is the limit for sending likes?
 Each fake Facebook account can send as many as 10 likes in one day. You can use another account to send likes continuously.
 
