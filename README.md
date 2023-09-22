@@ -20,7 +20,7 @@
 [**MachineLiker**](https://github.com/RozhakXD/MachineLiker) is a script that can be run using the Termux application and functions to get lots of spam likes on Facebook posts.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/fnwAB8pV0LE). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
