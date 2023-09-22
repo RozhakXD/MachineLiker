@@ -81,6 +81,11 @@ Likes will increase every minute or even hour according to the number of script 
 - They unlike your posts.
 - Accounts that like your posts are blocked or disabled.
 
+### Post link requirements?
+- Retrieving post links must be via the original Facebook application.
+- Posts must have a like button or be public.
+- Before entering the post link into Termux, make sure you visit the post via browser.
+
 ### How long will it take me to get the next like?
 You can wait 30 minutes to 1 hour to get the next like or you can exceed the time limit if the website is having problems.
 
